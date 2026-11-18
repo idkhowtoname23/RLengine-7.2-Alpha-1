@@ -9,3 +9,4 @@ out/
 imgui.ini
 *.log
 logs/
+*.zip
